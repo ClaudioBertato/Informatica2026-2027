@@ -1,0 +1,10 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "Connection",
+            "database": "${workspaceFolder:Esercitazione Compagna Aerea}/CompagniaAerea.db"
+        }
+    ]
+}
