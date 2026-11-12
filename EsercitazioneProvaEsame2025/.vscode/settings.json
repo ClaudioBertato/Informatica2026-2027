@@ -1,0 +1,10 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "c1",
+            "database": "${workspaceFolder:EsercitazioneProvaEsame2025}/ProvaEsame.db"
+        }
+    ]
+}

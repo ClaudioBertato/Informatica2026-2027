@@ -1,0 +1,10 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "Conn1",
+            "database": "${workspaceFolder:Esercitazione Monopattini}/GestioneMonopattiniComune.db"
+        }
+    ]
+}
